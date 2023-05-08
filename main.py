@@ -22,7 +22,7 @@ from flask_cors import CORS ,cross_origin
 import requests
 
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
-API_KEY = "1bdf680594d070a600a6565972a4991c"
+API_KEY = "Your API key"
 CITY = "New York"
 
 url = BASE_URL + "appid=" + API_KEY + "&q=" + CITY
@@ -154,8 +154,8 @@ def report(na=None):
   D = {"Name": A, "Weather": Z, "Response": Re, "crop": E}
   # client = vonage.Client(key="233854f3", secret="ja80Tjf0NpZCsy56")
   # sms = vonage.Sms(client)# sms = vonage.Sms(client)
-  # NEXMO_API_KEY = "233854f3"
-  # NEXMO_API_SECRET = "ja80Tjf0NpZCsy56"
+  # NEXMO_API_KEY = "****"
+  # NEXMO_API_SECRET = "**"
   # TO_NUMBER = B
   # NEXMO_BRAND_NAME = 'Green Data'
   # responseData = sms.send_message(
