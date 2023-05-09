@@ -85,8 +85,9 @@ Also, You can navigate using the manu bar
 
 ## Screenshots
 
-![Screenshot_20230509_042132](https://user-images.githubusercontent.com/77581157/236961431-470899c8-88e6-4906-96ea-e37e0efc47d2.jpg)
-![Screenshot_20230509_042115](https://user-images.githubusercontent.com/77581157/236961427-551552e6-6ec2-444c-84f7-5c5c2728c58f.jpg)
+![Screenshot](https://user-images.githubusercontent.com/77581157/236961943-a0697ecb-c446-4ba1-b1bb-13629ac90c02.png)
+
+
 
 
 ## Features
