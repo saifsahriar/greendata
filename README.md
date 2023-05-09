@@ -103,4 +103,8 @@ Also, You can navigate using the manu bar
 https://user-images.githubusercontent.com/77581157/236961546-9810f392-904d-48b6-8a0a-fc4e7178c935.mp4
 
 
+## Disclamier
+
+As our AI model uses an Algorithm with is licensed only for non-commercial use please try to make your own AI model for commercial use Other than that Use it freely 🙂
+
 
